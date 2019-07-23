@@ -1,0 +1,15 @@
+Problem 1 :
+
+You have a string S of length N. You are given Q queries of form Li,Ri. For each query, print "YES", if substring denoted by SLi,SLi+1...SRi is a palindrome. Both N,Q≤105.
+
+Problem 2 :
+
+ You have a string S of length N. Given an M≤N, find the number of substrings of S that are palindrome and are of size M. Given that N≤105
+// this is same as Problem 1.
+
+ Problem 3 :
+
+  Given a string S, find the size of  substring of largest size which occurs atleast twice in the string.
+
+  // this can we easily solve using binary_search + hashing O(N * logN ^ 2);
+
