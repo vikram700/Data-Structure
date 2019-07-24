@@ -1,0 +1,7 @@
+Problem is :
+
+           Given two string and find the largest common substring.
+
+           with Complexity O(N * logN)
+
+           
