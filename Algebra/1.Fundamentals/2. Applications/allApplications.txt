@@ -1,0 +1,8 @@
+All application based on Binary Exponentiation is given as : 
+
+1. Effective computation of large exponents modulo a number
+2. Effective computation of Fibonacci numbers
+3. Applying a permutation k times
+4. Fast application of a set of geometric operations to a set of points
+5. Number of paths of length k in a graph
+6. Variation of binary exponentiation: multiplying two numbers modulo  m
