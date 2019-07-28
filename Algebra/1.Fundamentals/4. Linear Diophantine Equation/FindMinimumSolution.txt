@@ -1,0 +1,21 @@
+so for finding min(x+y) solution for diophantine equation
+        
+
+        all solution is given as
+
+            x = x0 + k * (b/g);
+            y = y0 - k * (a/g);
+
+    x + y = x0 + y0 + k * ((b-a)/g);
+
+    here x0, y0, a, b and g are contant.
+
+    so
+
+    case 1 : when a < b 
+             so for this we need to find min values of k as possible.
+    case 2 : a > b
+             for this we need to find max values of k as possible.
+    case 3 : a == b
+             for this all solution are same and as (x0 + y0).        
+

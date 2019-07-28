@@ -1,0 +1,1 @@
+This folder contain how to check a no is prime or not

@@ -1,0 +1,19 @@
+For an equation there may be infinite no of solutions present.
+
+so suppose an equation have one solution describe in previous problem(finding one solution for the equation)
+                   
+                   a * x0 + b * y0 = c;
+                   
+                   where 
+                         x0 = xg * (c/g);
+                         y0 = yg * (c/g)
+    
+    add b/g to x0 and sub. a/g to y0;
+
+                  a(x0 + b/g) + b(y0 - a/g) = c;
+
+                  so 
+                      x = x0 + k * (b/g);
+                      y = y0 - k * (a/g);
+
+so for all values of k there infinite no of solution may present.

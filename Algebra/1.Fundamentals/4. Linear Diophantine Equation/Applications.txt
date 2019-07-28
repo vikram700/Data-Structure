@@ -1,0 +1,11 @@
+Here all applications of linear diophantine equations is given below :
+   the linear diophantine equation is represented as 
+    ax + by = c;
+
+    here a, b and c is given and we need to findout x and y;
+
+1. find one solution of the given equation.
+2. find all solution of the given equation.
+3. finding no of solution and solutions that present into given range.
+4. finding a solution with min value of x+y.
+
